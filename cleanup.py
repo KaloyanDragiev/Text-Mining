@@ -35,7 +35,7 @@ def load_json_by_path(path):
     print(f'Loading json in {path}')
     data = []
     for filename in tqdm(os.listdir(path)):
-        data.append(load_json(f'{path}/{filename}'), False)
+        data.append(load_json(f'{path}/{filename}', False))
     return data
 
 
