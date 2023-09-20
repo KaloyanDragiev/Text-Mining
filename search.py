@@ -1,5 +1,7 @@
 import json
 import os
+from contextlib import nullcontext
+
 from tqdm import tqdm
 from cleanup import load_json
 
@@ -14,7 +16,7 @@ def apply(path, mapper, reducer=None):
     return result
 
 
-def get_search_mapper(keywords, save_articles=False, path='./data'):
+def get_search_mapper(keywords, save_articles=False, path='./data', minimum_count=1):
     def mapper(data, filename):
         # For each article in the data, count how often the word "music" occurs
         # Keep track of how often each count occurs
@@ -25,11 +27,13 @@ def get_search_mapper(keywords, save_articles=False, path='./data'):
             if not os.path.exists(path):
                 os.makedirs(path)
 
-        with open(f'{path}/{filename}', 'w') if save_articles else None as f:
+        with open(f'{path}/{filename}', 'w') if save_articles else nullcontext() as f:
             for article in data:
                 combined_count = 0
                 for keyword in keywords:
-                    count = article['text'].count(keyword)
+                    if '.\nDevelopment.\n' not in article['text']:
+                        continue
+                    count = article['text'].split('.\nDevelopment.\n')[0].count(keyword)
                     combined_count += count
                     if count in results[keyword]:
                         results[keyword][count] += 1
@@ -41,7 +45,7 @@ def get_search_mapper(keywords, save_articles=False, path='./data'):
                 else:
                     results['combined'][combined_count] = 1
 
-                if combined_count > 0 and save_articles:
+                if combined_count >= minimum_count and save_articles:
                     f.write(json.dumps(article) + '\n')
 
         return results
@@ -68,6 +72,30 @@ def get_search_reducer(keywords):
     return reducer
 
 
+def main(path, keywords, save_articles, save_path, minimum_count=1):
+    print(f'Keywords: {", ".join(keywords)}')
+    result = apply(path, get_search_mapper(keywords, save_articles, save_path, minimum_count),
+                   get_search_reducer(keywords))
+    print(result)
+
+    print(
+        f'Total number of articles: {sum([value for value in result[keywords[0]].values()])}')
+    for keyword in keywords:
+        print(f'\nKeyword: {keyword}')
+        print(
+            f'Number of articles with "{keyword}" in them: {sum([value if key >= minimum_count else 0 for key, value in result[keyword].items()])}')
+        if sum([value if key >= minimum_count else 0 for key, value in result[keyword].items()]) > 0:
+            print(
+                f'Average number of occurrences of "{keyword}" in articles that contain it: {sum([key * value if key >= minimum_count else 0 for key, value in result[keyword].items()]) / sum([value if key >= minimum_count else 0 for key, value in result[keyword].items()])}')
+
+    print("\nCombined:")
+    print(
+        f'Number of articles with any keyword in them: {sum([value if key >= minimum_count else 0 for key, value in result["combined"].items()])}')
+    if sum([value if key >= minimum_count else 0 for key, value in result["combined"].items()]) > 0:
+        print(
+            f'Average number of occurrences of keywords in articles that contain any: {sum([key * value if key >= minimum_count else 0 for key, value in result["combined"].items()]) / sum([value if key >= minimum_count else 0 for key, value in result["combined"].items()])}')
+
+
 if __name__ == '__main__':
     # Change these variables to change the behavior of the program
     # The path to the directory containing the data
@@ -77,19 +105,13 @@ if __name__ == '__main__':
     # Whether to save the articles that contain the keywords
     save_articles = True
     # The path to the directory to save the articles in
-    save_path = f'./data/AA_{"-".join(keywords)}'
+    save_path = f'./data/Filtered_2_AA{"-".join(keywords)}'
+    # The minimum number of occurrences of a keyword in an article for it to be counted
+    minimum_count = 2
 
-    print(f'Keywords: {", ".join(keywords)}')
-    result = apply(path, get_search_mapper(keywords, save_articles, save_path), get_search_reducer(keywords))
-    print(result)
+    main(path, keywords, save_articles, save_path, minimum_count)
 
-    print(f'Total number of articles: {sum([value for value in result[keywords[0]].values()])}')
-    for keyword in keywords:
-        print(f'\nKeyword: {keyword}')
-        print(f'Number of articles with "{keyword}" in them: {sum([value if key > 0 else 0 for key, value in result[keyword].items()])}')
-        print(f'Average number of occurrences of "{keyword}" in articles that contain it: {sum([key * value if key > 0 else 0 for key, value in result[keyword].items()]) / sum([value if key > 0 else 0 for key, value in result[keyword].items()])}')
+    path = "./data/AB_non-empty_ftfy"
+    save_path = f'./data/Filtered_2_AB{"-".join(keywords)}'
 
-    print("\nCombined:")
-    print(f'Number of articles with any keyword in them: {sum([value if key > 0 else 0 for key, value in result["combined"].items()])}')
-    print(f'Average number of occurrences of keywords in articles that contain any: {sum([key * value if key > 0 else 0 for key, value in result["combined"].items()]) / sum([value if key > 0 else 0 for key, value in result["combined"].items()])}')
-
+    main(path, keywords, save_articles, save_path, minimum_count)
