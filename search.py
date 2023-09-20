@@ -101,17 +101,17 @@ if __name__ == '__main__':
     # The path to the directory containing the data
     path = "./data/AA_non-empty_ftfy"
     # The keywords to search for
-    keywords = ["airplane", "airliner"]
+    keywords = ["airplane", "airliner", "aircraft"]
     # Whether to save the articles that contain the keywords
     save_articles = True
-    # The path to the directory to save the articles in
-    save_path = f'./data/Filtered_2_AA{"-".join(keywords)}'
     # The minimum number of occurrences of a keyword in an article for it to be counted
-    minimum_count = 2
+    minimum_count = 1
+    # The path to the directory to save the articles in
+    save_path = f'./data/Filtered_{minimum_count}_AA{"-".join(keywords)}'
 
     main(path, keywords, save_articles, save_path, minimum_count)
 
     path = "./data/AB_non-empty_ftfy"
-    save_path = f'./data/Filtered_2_AB{"-".join(keywords)}'
+    save_path = f'./data/Filtered_1_AB{"-".join(keywords)}'
 
     main(path, keywords, save_articles, save_path, minimum_count)
