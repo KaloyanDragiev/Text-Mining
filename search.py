@@ -16,7 +16,7 @@ def apply(path, mapper, reducer=None):
     return result
 
 
-def get_search_mapper(keywords, save_articles=False, path='./data', minimum_count=1):
+def get_search_mapper(keywords, save_articles=False, save_label_studio=False, path='./data', minimum_count=1):
     def mapper(data, filename):
         # For each article in the data, count how often the word "music" occurs
         # Keep track of how often each count occurs
@@ -27,7 +27,7 @@ def get_search_mapper(keywords, save_articles=False, path='./data', minimum_coun
             if not os.path.exists(path):
                 os.makedirs(path)
 
-        with open(f'{path}/{filename}', 'w') if save_articles else nullcontext() as f:
+        with open(f'{path}/{filename}{".txt" if save_label_studio else ""}', 'w', encoding='utf-8') if save_articles else nullcontext() as f:
             for article in data:
                 combined_count = 0
                 for keyword in keywords:
@@ -46,7 +46,10 @@ def get_search_mapper(keywords, save_articles=False, path='./data', minimum_coun
                     results['combined'][combined_count] = 1
 
                 if combined_count >= minimum_count and save_articles:
-                    f.write(json.dumps(article) + '\n')
+                    if save_label_studio:
+                        f.write(article['text'].split('.\nDevelopment.\n')[0].replace('\n', ' ') + '\n')
+                    else:
+                        f.write(json.dumps(article) + '\n')
 
         return results
     return mapper
@@ -72,9 +75,9 @@ def get_search_reducer(keywords):
     return reducer
 
 
-def main(path, keywords, save_articles, save_path, minimum_count=1):
+def main(path, keywords, save_articles, save_label_studio, save_path, minimum_count=1):
     print(f'Keywords: {", ".join(keywords)}')
-    result = apply(path, get_search_mapper(keywords, save_articles, save_path, minimum_count),
+    result = apply(path, get_search_mapper(keywords, save_articles, save_label_studio, save_path, minimum_count),
                    get_search_reducer(keywords))
     print(result)
 
@@ -104,14 +107,16 @@ if __name__ == '__main__':
     keywords = ["airplane", "airliner", "aircraft"]
     # Whether to save the articles that contain the keywords
     save_articles = True
+    # Wheter to save the articles in label studio format
+    save_label_studio = True
     # The minimum number of occurrences of a keyword in an article for it to be counted
     minimum_count = 1
     # The path to the directory to save the articles in
     save_path = f'./data/Filtered_{minimum_count}_AA{"-".join(keywords)}'
 
-    main(path, keywords, save_articles, save_path, minimum_count)
+    main(path, keywords, save_articles, save_label_studio, save_path, minimum_count)
 
     path = "./data/AB_non-empty_ftfy"
-    save_path = f'./data/Filtered_1_AB{"-".join(keywords)}'
+    save_path = f'./data/Filtered_{minimum_count}_AB{"-".join(keywords)}'
 
-    main(path, keywords, save_articles, save_path, minimum_count)
+    main(path, keywords, save_articles, save_label_studio, save_path, minimum_count)
