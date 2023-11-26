@@ -1,0 +1,5690 @@
+[
+  {
+    "text": "On 4\/23\/89 at 1830 hours, during normal steady state operation, (Mode 1, at 100 percent power) the Control Room Operator observed that Group C control rods could not be moved. The operating crew determined that the control rods' cam motor was inoperable. An electrician was called in. The electrician performing troubleshooting requested the control room operator withdraw the group one step for troubleshooting purposes. The cam motor and control rods appeared to operate properly while being pulled one step. Almost immediately the control room received indication of dropped rods. Within five to ten seconds after the rods dropped an automatic scram occurred as a result of low main coolant pressure. An Unusual Event was declared at 1910 hours and terminated at 1915 hours. NRC notification was made at 1938 hours. A thorough investigation was conducted determine the cause of the dropped rods. The cause of the inoperable cam motor was attributed to a broken compression connector found on the motor's brake solenoid circuit. The connector was replaced in kind. No abnormalities were found during the inspection or testing of the control rods' circuits and components. Control rod exercising was performed without abnormal indications. A root cause for this event could not be positively determined. There was no adverse effect to the public health or safety as a result of this event.",
+    "id": 76596005,
+    "label": [
+      {
+        "end": 10,
+        "text": "4\/23\/89",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 24,
+        "text": "1830 hours",
+        "start": 14,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 120,
+        "text": "the Control Room Operator",
+        "start": 95,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 174,
+        "text": "control rods could not be moved",
+        "start": 143,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 155,
+        "text": "control rods",
+        "start": 143,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 194,
+        "text": "The operating crew",
+        "start": 176,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 227,
+        "text": "control rods",
+        "start": 215,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 269,
+        "text": "An electrician",
+        "start": 255,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 300,
+        "text": "The electrician",
+        "start": 285,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 327,
+        "text": "performing troubleshooting",
+        "start": 301,
+        "labels": [
+          "Activity"
+        ]
+      },
+      {
+        "end": 363,
+        "text": "control room operator",
+        "start": 342,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 238,
+        "text": "cam motor",
+        "start": 229,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 435,
+        "text": "cam motor",
+        "start": 426,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 452,
+        "text": "control rods",
+        "start": 440,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 582,
+        "text": "rods",
+        "start": 578,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 625,
+        "text": "rods",
+        "start": 621,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 652,
+        "text": "an automatic scram",
+        "start": 634,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 702,
+        "text": "low main coolant pressure",
+        "start": 677,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 747,
+        "text": "1910 hours",
+        "start": 737,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 776,
+        "text": "1915 hours",
+        "start": 766,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 817,
+        "text": "1938 hours",
+        "start": 807,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 936,
+        "text": "inoperable cam motor",
+        "start": 916,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 1029,
+        "text": "a broken compression connector found on the motor's brake solenoid circuit",
+        "start": 955,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 1065,
+        "text": "The connector was replaced in kind",
+        "start": 1031,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 1147,
+        "text": "control rods",
+        "start": 1135,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1185,
+        "text": "Control rod",
+        "start": 1174,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 720,
+        "text": "Unusual Event",
+        "start": 707,
+        "labels": [
+          "Event"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26125743,
+    "created_at": "2023-11-12T09:59:37.803478Z",
+    "updated_at": "2023-11-12T11:01:34.041187Z",
+    "lead_time": 342.721,
+    "agreement": 82.87920356253689
+  },
+  {
+    "text": "On 12\/5\/90, at 0702 hours, with the plant in Mode 1 at 100% power, following performance of valving to support repair of a control air leak, an automatic reactor scram occurred. Closure of a control air isolation valve (CA-V-1239) resulted in an unanticipated loss of air to the Heater Drain Tank High Level Dump Valve causing it to open. This resulted in sequential automatic tripping of the Heater Drain Pump on low Heater Drain Tank level and the Boiler Feed Pumps (BFPs) on low suction pressure. The loss of feedwater flow from the BFPs resulted in a low level condition in the steam generat rs which initiated the automatic reactor scram. The root cause of this event has been-attributed to personnel error. An incomplete notation on a plant drawing and the valve identification tag contributed to the error. As corrective actions the drawing and valve tag have been corrected and a walkdown of the control air system drawings is in progress. All plant systems functioned as designed during the event. There was no adverse effect on the health or safety of the public as a result of this event.",
+    "id": 76596006,
+    "label": [
+      {
+        "end": 10,
+        "text": "12\/5\/90",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 25,
+        "text": "0702 hours",
+        "start": 15,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 41,
+        "text": "the plant",
+        "start": 32,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 167,
+        "text": "an automatic reactor scram",
+        "start": 141,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 218,
+        "text": "control air isolation valve",
+        "start": 191,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 337,
+        "text": "an unanticipated loss of air to the Heater Drain Tank High Level Dump Valve causing it to open",
+        "start": 243,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 343,
+        "text": "This",
+        "start": 339,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 385,
+        "text": "automatic tripping",
+        "start": 367,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 410,
+        "text": "Heater Drain Pump",
+        "start": 393,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 467,
+        "text": "Boiler Feed Pumps",
+        "start": 450,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 473,
+        "text": "BFPs",
+        "start": 469,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 526,
+        "text": "The loss of feedwater flow",
+        "start": 500,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 540,
+        "text": "BFPs",
+        "start": 536,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 642,
+        "text": "the automatic reactor scram",
+        "start": 615,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 672,
+        "text": "this event",
+        "start": 662,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 711,
+        "text": "personnel error",
+        "start": 696,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 787,
+        "text": "An incomplete notation on a plant drawing and the valve identification tag",
+        "start": 713,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 946,
+        "text": "the drawing and valve tag have been corrected and a walkdown of the control air system drawings is in progress",
+        "start": 836,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 1005,
+        "text": "the event",
+        "start": 996,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 1098,
+        "text": "this event",
+        "start": 1088,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 318,
+        "text": "Heater Drain Tank High Level Dump Valve",
+        "start": 279,
+        "labels": [
+          "Component"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26125788,
+    "created_at": "2023-11-12T10:05:18.161653Z",
+    "updated_at": "2023-11-12T10:05:22.368393Z",
+    "lead_time": 332.049,
+    "agreement": 87.13994284517977
+  },
+  {
+    "text": "At 1024 on March 10, 1987, with the Unit at 92% power, a trip signal initiated in response to a loss of generator field, resulted in a turbine trip and subsequent reactor trip. The Auxiliary Feedwater System automatically actuated on low steam generator level as expected from a trip at this power level. During the trip recovery, equipment deficiencies were noted which included: failure of two rod bottom indicating lights to illuminate; one of two intermediate range nuclear instrumentation channels failed off-scale low; eight Moisture Separator Reheater steam dump valves and their associated motor operated isolation valves failed to close, which in turn caused perforations in one of the Low Pressure turbine casing rupture discs; and, the main feedwater block valve to \"A\" Steam Generator failed to fully close upon demand. The loss of generator field was due to an electrical short resulting from a brush being inadvertently dropped into the main exciter commutator assembly during performance of routine brush replacement on the commutator and brush assemblies. Inadequate lighting within the commutator enclosure was a contributing factor since the electrician held a flashlight in one hand while replacing the brush with the other, thereby limiting his dexterity. Enhancements to the available lighting within the commutator enclosure have been completed. Additionally, this incident has been discussed with all electricians who may be involved in similar work. Since none of the equipment failures resulted in a loss of safety function, there were no safety consequences to this event.",
+    "id": 76596007,
+    "label": [
+      {
+        "end": 7,
+        "text": "1024",
+        "start": 3,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 25,
+        "text": "March 10, 1987",
+        "start": 11,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 68,
+        "text": "a trip signal",
+        "start": 55,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 119,
+        "text": "a loss of generator field",
+        "start": 94,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 147,
+        "text": "a turbine trip",
+        "start": 133,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 175,
+        "text": "reactor trip",
+        "start": 163,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 207,
+        "text": "Auxiliary Feedwater System",
+        "start": 181,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 253,
+        "text": "steam generator",
+        "start": 238,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 283,
+        "text": "trip",
+        "start": 279,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 320,
+        "text": "trip",
+        "start": 316,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 399,
+        "text": "rod",
+        "start": 396,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 438,
+        "text": "failure of two rod bottom indicating lights to illuminate",
+        "start": 381,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 523,
+        "text": "nuclear instrumentation channels failed off-scale low",
+        "start": 470,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 558,
+        "text": "Moisture Separator Reheater",
+        "start": 531,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 576,
+        "text": "steam dump valves",
+        "start": 559,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 629,
+        "text": "isolation valves",
+        "start": 613,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 645,
+        "text": "isolation valves failed to close",
+        "start": 613,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 715,
+        "text": "Low Pressure turbine",
+        "start": 695,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 736,
+        "text": "perforations in one of the Low Pressure turbine casing rupture discs",
+        "start": 668,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 830,
+        "text": "the main feedwater block valve to \"A\" Steam Generator failed to fully close upon demand",
+        "start": 743,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 796,
+        "text": "Steam Generator",
+        "start": 781,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 859,
+        "text": "The loss of generator field",
+        "start": 832,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 890,
+        "text": "an electrical short",
+        "start": 871,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 983,
+        "text": "a brush being inadvertently dropped into the main exciter commutator assembly",
+        "start": 906,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 1049,
+        "text": "commutator",
+        "start": 1039,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1070,
+        "text": "brush assemblies",
+        "start": 1054,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1091,
+        "text": "Inadequate lighting",
+        "start": 1072,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 1171,
+        "text": "electrician",
+        "start": 1160,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 1227,
+        "text": "replacing the brush",
+        "start": 1208,
+        "labels": [
+          "Activity"
+        ]
+      },
+      {
+        "end": 1366,
+        "text": "Enhancements to the available lighting within the commutator enclosure have been completed",
+        "start": 1276,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 1336,
+        "text": "commutator",
+        "start": 1326,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1436,
+        "text": "electricians",
+        "start": 1424,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 1597,
+        "text": "this event",
+        "start": 1587,
+        "labels": [
+          "Event"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26125887,
+    "created_at": "2023-11-12T10:17:25.051429Z",
+    "updated_at": "2023-11-12T10:17:29.002048Z",
+    "lead_time": 715.129,
+    "agreement": 73.35152758763869
+  },
+  {
+    "text": "On March 28, 1994 at 2227 hours with the plant in mode 1 and reactor power approximately 7 percent of rated thermal power, an automatic reactor trip occurred while performing Normal Operating Procedure (NOP) 2.1-6, 'Reactor Just Critical to Minimum Load.' When the operators transferred the 4160 volt electrical power supply to reactor coolant pump bus 1-1A from offsite power to the main generator, circuit breaker 3T-1A opened however 309-1A failed to close. Subsequently, indicated reactor power exceeded the P-7 permissive enable setpoint while reactor coolant pumps 1 & 2 were de-energized. Before breaker 3T-1A could be reclosed, the 2 out of 4 reactor coolant low flow trip logic was satisfied and the reactor tripped. The cause of this event was equipment failure and a procedure deficiency. Immediate corrective actions consisted of a procedure revision to NOP 2.1-6 and the repair\/reinstallment of breaker 309-1A. This event is reportable under 10CFR50.73 (a) (2) (iv) since it resulted in an automatic actuation of the Reactor Protection System.",
+    "id": 76596008,
+    "label": [
+      {
+        "end": 17,
+        "text": "March 28, 1994",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 31,
+        "text": "2227 hours",
+        "start": 21,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 46,
+        "text": "the plant",
+        "start": 37,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 68,
+        "text": "reactor",
+        "start": 61,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 148,
+        "text": "an automatic reactor trip",
+        "start": 123,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 223,
+        "text": "Reactor",
+        "start": 216,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 274,
+        "text": "operators",
+        "start": 265,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 324,
+        "text": "transferred the 4160 volt electrical power supply",
+        "start": 275,
+        "labels": [
+          "Activity"
+        ]
+      },
+      {
+        "end": 335,
+        "text": "reactor",
+        "start": 328,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 352,
+        "text": "coolant pump bus",
+        "start": 336,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 415,
+        "text": "circuit breaker",
+        "start": 400,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 398,
+        "text": "generator",
+        "start": 389,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 492,
+        "text": "reactor",
+        "start": 485,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 556,
+        "text": "reactor",
+        "start": 549,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 570,
+        "text": "coolant pumps",
+        "start": 557,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 610,
+        "text": "breaker",
+        "start": 603,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 658,
+        "text": "reactor",
+        "start": 651,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 724,
+        "text": "the reactor tripped",
+        "start": 705,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 749,
+        "text": "this event",
+        "start": 739,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 798,
+        "text": "equipment failure and a procedure deficiency",
+        "start": 754,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 922,
+        "text": "a procedure revision to NOP 2.1-6 and the repair\/reinstallment of breaker 309-1A",
+        "start": 842,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 934,
+        "text": "This event",
+        "start": 924,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 1055,
+        "text": "an automatic actuation of the Reactor Protection System",
+        "start": 1000,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 1055,
+        "text": "Reactor Protection System",
+        "start": 1030,
+        "labels": [
+          "System"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26125973,
+    "created_at": "2023-11-12T10:26:36.775828Z",
+    "updated_at": "2023-11-12T10:26:49.257526Z",
+    "lead_time": 280.903,
+    "agreement": 79.76229872492358
+  },
+  {
+    "text": "On June 25, 1990, at approximately 6:18 AM, a reactor scram occurred on low condenser vacuum. The scram occurred during initiation of backwashing of the A north main condenser. The scram was caused by the failure of the backwash outlet valve to open, causing a loss of circulating water to the A condenser. The backwash outlet valve failed to open due to a breaker trip of the motor operator. The plant was stabilized in a hot standby condition and subsequently taken to cold shutdown. The motor operator, the breaker and the valve were all inspected and tested satisfactorily. The auxiliary contacts on the motor close coil were replaced and auxiliary contacts on the motor open coil were realigned. The remaining 20 circulating water valves manipulated during backwashing evolutions were tested and verified to be operating properly.",
+    "id": 76596009,
+    "label": [
+      {
+        "end": 16,
+        "text": "June 25, 1990",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 42,
+        "text": "6:18 AM",
+        "start": 35,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 59,
+        "text": "a reactor scram",
+        "start": 44,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 92,
+        "text": "low condenser vacuum",
+        "start": 72,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 103,
+        "text": "The scram",
+        "start": 94,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 186,
+        "text": "The scram",
+        "start": 177,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 249,
+        "text": "the failure of the backwash outlet valve to open",
+        "start": 201,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 305,
+        "text": "a loss of circulating water to the A condenser",
+        "start": 259,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 175,
+        "text": "condenser",
+        "start": 166,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 241,
+        "text": "backwash outlet valve",
+        "start": 220,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 305,
+        "text": "condenser",
+        "start": 296,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 332,
+        "text": "backwash outlet valve",
+        "start": 311,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 347,
+        "text": "The backwash outlet valve failed to open",
+        "start": 307,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 391,
+        "text": "a breaker trip of the motor operator",
+        "start": 355,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 402,
+        "text": "The plant",
+        "start": 393,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 699,
+        "text": "The auxiliary contacts on the motor close coil were replaced and auxiliary contacts on the motor open coil were realigned",
+        "start": 578,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 504,
+        "text": "motor operator",
+        "start": 490,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 517,
+        "text": "breaker",
+        "start": 510,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 531,
+        "text": "valve",
+        "start": 526,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 391,
+        "text": "motor operator",
+        "start": 377,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 85,
+        "text": "condenser",
+        "start": 76,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 600,
+        "text": "auxiliary contacts",
+        "start": 582,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 624,
+        "text": "motor close coil",
+        "start": 608,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 661,
+        "text": "auxiliary contacts",
+        "start": 643,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 684,
+        "text": "motor open coil",
+        "start": 669,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 742,
+        "text": "circulating water valves",
+        "start": 718,
+        "labels": [
+          "Component"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26126001,
+    "created_at": "2023-11-12T10:31:04.513990Z",
+    "updated_at": "2023-11-12T10:32:35.955798Z",
+    "lead_time": 246.429,
+    "agreement": 78.04679252694375
+  },
+  {
+    "text": "On December 6, 1987, at approximately 2100 hours, Operations personnel at Nine Mile Point Unit 1 (NMP1) observed that the reactor feedwater flow control system began to develop an instability. Attempts were made to dampen the resulting reactor water level oscillations by taking local manual control of a feedwater flow control valve. However, these attempts were unsuccessful and the reactor scrammed at 0054 hours on December 7, when the water level fell to the low level scram setpoint. The High Pressure Coolant Injection mode of feedwater also initiated and reactor water level was subsequently restored to normal level. The probable root cause of this event was debris in the instrument air control line to the feedwater flow control valves #13 North and South and #11 valve positioners. A secondary cause of this event was the fact that the feedwater master controller was out of adjustment. This prevented the flow control valves from responding properly to signals from the feedwater control system.  Corrective actions consisted of issuing station Work Requests to repair the feedwater control malfunction, recalibrating the feedwater master controller and initiating a Modification Request to install inline filters on the instrument air supply to the Feedwater Flow Control Valves.",
+    "id": 76596010,
+    "label": [
+      {
+        "end": 19,
+        "text": "December 6, 1987",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 48,
+        "text": "2100 hours",
+        "start": 38,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 70,
+        "text": "Operations personnel",
+        "start": 50,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 89,
+        "text": "Nine Mile Point",
+        "start": 74,
+        "labels": [
+          "Location"
+        ]
+      },
+      {
+        "end": 96,
+        "text": "Unit 1",
+        "start": 90,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 159,
+        "text": "reactor feedwater flow control system",
+        "start": 122,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 191,
+        "text": "the reactor feedwater flow control system began to develop an instability",
+        "start": 118,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 333,
+        "text": "taking local manual control of a feedwater flow control valve",
+        "start": 272,
+        "labels": [
+          "Activity"
+        ]
+      },
+      {
+        "end": 333,
+        "text": "feedwater flow control valve",
+        "start": 305,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 401,
+        "text": "the reactor scrammed",
+        "start": 381,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 415,
+        "text": "0054 hours",
+        "start": 405,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 429,
+        "text": "December 7",
+        "start": 419,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 488,
+        "text": "the water level fell to the low level scram setpoint",
+        "start": 436,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 663,
+        "text": "this event",
+        "start": 653,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 746,
+        "text": "debris in the instrument air control line to the feedwater flow control valves",
+        "start": 668,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 746,
+        "text": "feedwater flow control valves",
+        "start": 717,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 780,
+        "text": "valve",
+        "start": 775,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 825,
+        "text": "this event",
+        "start": 815,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 897,
+        "text": "the feedwater master controller was out of adjustment",
+        "start": 844,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 937,
+        "text": "the flow control valves",
+        "start": 914,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1007,
+        "text": "feedwater control system",
+        "start": 983,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 1292,
+        "text": "issuing station Work Requests to repair the feedwater control malfunction, recalibrating the feedwater master controller and initiating a Modification Request to install inline filters on the instrument air supply to the Feedwater Flow Control Valves",
+        "start": 1042,
+        "labels": [
+          "Solution"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26126022,
+    "created_at": "2023-11-12T10:37:27.988155Z",
+    "updated_at": "2023-11-12T10:37:31.781430Z",
+    "lead_time": 281.025,
+    "agreement": 74.08905913744994
+  },
+  {
+    "text": "On August 19, 1990, with the reactor mode switch in the run position, reactor power at approximately 21.5 percent, Nine Mile Point Unit 1 (NMP1) experienced turbine vibration problems when conducting Power Ascension Procedure N1-PAT-12-1, \"Main Turbine-Generator Rotor System Torsional Screening Test\". The turbine was manually tripped, subsequently a manual reactor scram was inserted prior to breaking vacuum to preclude an automatic reactor scram on low condenser vacuum. Consequently, a High Pressure Coolant Injection (HPCI) (mode of Feedwater control) signal was received due to low reactor water level (53 inches) and a main steam isolation valve isolation occurred on decreasing condenser vacuum (7 inches mercury Hg). A root cause investigation determined that the most likely cause of the Low Pressure (L.P.) turbine rotor vibration was that a slow acceleration rate through an L.P. turbine critical speed range led to the L.P. turbine rotor developing an interstage packing rub and bowed rotor. Immediate corrective action was to terminate N1-PAT-12-1. Additionally, revision to the turbine torsional test is being pursued by Engineering and General Electric to address the technical problems encountered during the initial run.",
+    "id": 76596011,
+    "label": [
+      {
+        "end": 18,
+        "text": "August 19, 1990",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 36,
+        "text": "reactor",
+        "start": 29,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 77,
+        "text": "reactor",
+        "start": 70,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 137,
+        "text": "Unit 1",
+        "start": 131,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 130,
+        "text": "Nine Mile Point",
+        "start": 115,
+        "labels": [
+          "Location"
+        ]
+      },
+      {
+        "end": 183,
+        "text": "turbine vibration problems",
+        "start": 157,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 275,
+        "text": "Main Turbine-Generator Rotor System",
+        "start": 240,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 314,
+        "text": "turbine",
+        "start": 307,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 335,
+        "text": "The turbine was manually tripped",
+        "start": 303,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 372,
+        "text": "a manual reactor scram",
+        "start": 350,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 449,
+        "text": "an automatic reactor scram",
+        "start": 423,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 577,
+        "text": "a High Pressure Coolant Injection (HPCI) (mode of Feedwater control) signal was received",
+        "start": 489,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 653,
+        "text": "isolation valve",
+        "start": 638,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 696,
+        "text": "condenser",
+        "start": 687,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 842,
+        "text": "the Low Pressure (L.P.) turbine rotor vibration",
+        "start": 795,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 921,
+        "text": "a slow acceleration rate through an L.P. turbine critical speed range",
+        "start": 852,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 1004,
+        "text": "the L.P. turbine rotor developing an interstage packing rub and bowed rotor",
+        "start": 929,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 1062,
+        "text": "terminate N1-PAT-12-1",
+        "start": 1041,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 1133,
+        "text": "revision to the turbine torsional test is being pursued",
+        "start": 1078,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 473,
+        "text": "low condenser vacuum",
+        "start": 453,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 608,
+        "text": "low reactor water level",
+        "start": 585,
+        "labels": [
+          "Cause"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26126044,
+    "created_at": "2023-11-12T10:44:21.019049Z",
+    "updated_at": "2023-11-12T10:45:24.240476Z",
+    "lead_time": 459.622,
+    "agreement": 75.75684889174202
+  },
+  {
+    "text": "On April 5, 1994 at 0451 hours, Nine Mile Point Unit 1 (NMP1) received an automatic scram initiation signal resulting in a full reactor scram. While preparing for maintenance on the #9 345KV line disconnect switch, breaker R925 was opened, at which time the #8 line breaker R915 tripped unexpectedly. This resulted in a main generator trip and full reactor scram. At the time of the event, the plant was operating at 100 percent of rated thermal power. The apparent root cause of this event was an electrical short in the polarizing circuit within the distance directional relay 21B-1. Immediate operator actions included commencing scram recovery activities and initiating a controlled plant cooldown. Additional corrective actions include: 1) replacing the faulty relay; 2) verifying the correct operation of a similar relay; and 3) training operators to identify the precursor to this event.",
+    "id": 76596012,
+    "label": [
+      {
+        "end": 16,
+        "text": "April 5, 1994",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 30,
+        "text": "0451 hours",
+        "start": 20,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 47,
+        "text": "Nine Mile Point",
+        "start": 32,
+        "labels": [
+          "Location"
+        ]
+      },
+      {
+        "end": 54,
+        "text": "Unit 1",
+        "start": 48,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 107,
+        "text": "an automatic scram initiation signal",
+        "start": 71,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 141,
+        "text": "a full reactor scram",
+        "start": 121,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 213,
+        "text": "disconnect switch",
+        "start": 196,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 222,
+        "text": "breaker",
+        "start": 215,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 299,
+        "text": "the #8 line breaker R915 tripped unexpectedly",
+        "start": 254,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 305,
+        "text": "This",
+        "start": 301,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 339,
+        "text": "a main generator trip",
+        "start": 318,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 362,
+        "text": "full reactor scram",
+        "start": 344,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 490,
+        "text": "this event",
+        "start": 480,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 584,
+        "text": "an electrical short in the polarizing circuit within the distance directional relay 21B-1",
+        "start": 495,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 604,
+        "text": "operator",
+        "start": 596,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 658,
+        "text": "commencing scram recovery activities",
+        "start": 622,
+        "labels": [
+          "Activity"
+        ]
+      },
+      {
+        "end": 701,
+        "text": "initiating a controlled plant cooldown",
+        "start": 663,
+        "labels": [
+          "Activity"
+        ]
+      },
+      {
+        "end": 771,
+        "text": "replacing the faulty relay",
+        "start": 745,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 826,
+        "text": "verifying the correct operation of a similar relay",
+        "start": 776,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 893,
+        "text": "training operators to identify the precursor to this event",
+        "start": 835,
+        "labels": [
+          "Solution"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26126071,
+    "created_at": "2023-11-12T10:49:30.910865Z",
+    "updated_at": "2023-11-12T10:49:35.462506Z",
+    "lead_time": 234.698,
+    "agreement": 80.89682921382435
+  },
+  {
+    "text": "On August 14, 2003 at approximately 1611 hours, Nine Mile Point Unit 1 automatically scrammed from 100% rated thermal power when the turbine tripped on a load rejection. A large disturbance in the electric grid had caused the turbine to trip. Both emergency diesel generators (EDGS) automatically started and supplied the emergency buses. The electric grid disturbance ultimately led to the loss of the reactor recirculation pumps, condensate pumps, and circulating water pumps. Reactor pressure and water level were maintained using the electromatic relief valves (ERVs), emergency condensers, and the control rod drive injection system. At 1633 hours an Unusual Event (UE) was declared due to grid instability. After grid stability had been established the EDGs were secured. EDG 103 was secured at 2339 hours on August 14, 2003 and EDG 102 was secured at 0018 hours on August 15,2003. The UE was terminated at 0120 hours on August 15, 2003.  The cause of the event was the severe disturbance on the northeast electric grid.  This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) because of the critical reactor scram, and because of the automatic start of the EDGs.",
+    "id": 76596013,
+    "label": [
+      {
+        "end": 18,
+        "text": "August 14, 2003",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 46,
+        "text": "1611 hours",
+        "start": 36,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 63,
+        "text": "Nine Mile Point",
+        "start": 48,
+        "labels": [
+          "Location"
+        ]
+      },
+      {
+        "end": 70,
+        "text": "Unit 1",
+        "start": 64,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 93,
+        "text": "automatically scrammed",
+        "start": 71,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 241,
+        "text": "the turbine to trip",
+        "start": 222,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 210,
+        "text": "A large disturbance in the electric grid",
+        "start": 170,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 275,
+        "text": "emergency diesel generators",
+        "start": 248,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 281,
+        "text": "EDGS",
+        "start": 277,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 337,
+        "text": "emergency buses",
+        "start": 322,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 368,
+        "text": "The electric grid disturbance",
+        "start": 339,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 477,
+        "text": "the loss of the reactor recirculation pumps, condensate pumps, and circulating water pumps",
+        "start": 387,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 430,
+        "text": "reactor recirculation pumps",
+        "start": 403,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 448,
+        "text": "condensate pumps",
+        "start": 432,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 477,
+        "text": "irculating water pumps",
+        "start": 455,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 486,
+        "text": "Reactor",
+        "start": 479,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 564,
+        "text": "electromatic relief valves",
+        "start": 538,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 570,
+        "text": "ERVs",
+        "start": 566,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 593,
+        "text": "emergency condensers",
+        "start": 573,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 637,
+        "text": "control rod drive injection system",
+        "start": 603,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 652,
+        "text": "1633 hours",
+        "start": 642,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 669,
+        "text": "Unusual Event",
+        "start": 656,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 673,
+        "text": "UE",
+        "start": 671,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 711,
+        "text": "grid instability",
+        "start": 695,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 764,
+        "text": "EDGs ",
+        "start": 759,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 781,
+        "text": "EDG",
+        "start": 778,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 811,
+        "text": "2339 hours",
+        "start": 801,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 830,
+        "text": "August 14, 2003",
+        "start": 815,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 838,
+        "text": "EDG",
+        "start": 835,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 868,
+        "text": "0018 hours",
+        "start": 858,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 886,
+        "text": "August 15,2003",
+        "start": 872,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 894,
+        "text": "UE",
+        "start": 892,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 923,
+        "text": "0120 hours",
+        "start": 913,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 942,
+        "text": "August 15, 2003",
+        "start": 927,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 967,
+        "text": "the event",
+        "start": 958,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 1025,
+        "text": "the severe disturbance on the northeast electric grid",
+        "start": 972,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 1038,
+        "text": "This event",
+        "start": 1028,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 1183,
+        "text": "EDGs",
+        "start": 1179,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1135,
+        "text": "reactor scram",
+        "start": 1122,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 148,
+        "text": "the turbine tripped",
+        "start": 129,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 168,
+        "text": "a load rejection",
+        "start": 152,
+        "labels": [
+          "Cause"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26126105,
+    "created_at": "2023-11-12T10:55:36.278375Z",
+    "updated_at": "2023-11-12T10:55:41.224607Z",
+    "lead_time": 337.154,
+    "agreement": 87.95096342116092
+  },
+  {
+    "text": "On August 30, 2004, at approximately 0825 hours, with the mode switch in \"RUN\" and reactor thermal power at approximately 100%, Nine Mile Point Unit 1 experienced feedwater flow oscillations. Efforts to manually stabilize feedwater flow were unsuccessful. At approximately 0833 hours, a manual scram was initiated to shutdown the plant.  The feedwater flow oscillations were caused by degradation of the #13 feedwater flow control valve positioner due to a ruptured diaphragm in the output pilot valve. The root cause was determined to be the original design did not adequately establish a service life that took into account operating the positioner at the maximum recommended air supply pressure, thereby decreasing the service life below the established preventive maintenance frequency.  The positioner, including the failed pneumatic module, for the #13 feedwater flow control valve was replaced. Subsequent testing demonstrated satisfactory flow control capabilities. To prevent recurrence, the positioner will be replaced every two years.",
+    "id": 76596014,
+    "label": [
+      {
+        "end": 18,
+        "text": "August 30, 2004",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 47,
+        "text": "0825 hours",
+        "start": 37,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 90,
+        "text": "reactor",
+        "start": 83,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 143,
+        "text": "Nine Mile Point",
+        "start": 128,
+        "labels": [
+          "Location"
+        ]
+      },
+      {
+        "end": 150,
+        "text": "Unit 1",
+        "start": 144,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 190,
+        "text": "feedwater flow oscillations",
+        "start": 163,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 236,
+        "text": "Efforts to manually stabilize feedwater flow",
+        "start": 192,
+        "labels": [
+          "Activity"
+        ]
+      },
+      {
+        "end": 283,
+        "text": "0833 hours",
+        "start": 273,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 299,
+        "text": "a manual scram",
+        "start": 285,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 335,
+        "text": "plant",
+        "start": 330,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 369,
+        "text": "The feedwater flow oscillations",
+        "start": 338,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 447,
+        "text": "degradation of the #13 feedwater flow control valve positioner",
+        "start": 385,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 501,
+        "text": "a ruptured diaphragm in the output pilot valve",
+        "start": 455,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 447,
+        "text": "feedwater flow control valve positioner",
+        "start": 408,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 501,
+        "text": "valve",
+        "start": 496,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 697,
+        "text": "the original design did not adequately establish a service life that took into account operating the positioner at the maximum recommended air supply pressure",
+        "start": 539,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 900,
+        "text": "The positioner, including the failed pneumatic module, for the #13 feedwater flow control valve was replaced",
+        "start": 792,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 1011,
+        "text": "positioner",
+        "start": 1001,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 806,
+        "text": "positioner",
+        "start": 796,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 887,
+        "text": "feedwater flow control valve",
+        "start": 859,
+        "labels": [
+          "Component"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26126127,
+    "created_at": "2023-11-12T10:59:09.004841Z",
+    "updated_at": "2023-11-12T10:59:13.804415Z",
+    "lead_time": 191.471,
+    "agreement": 78.95209217130883
+  },
+  {
+    "text": "On August 18, 2005, at approximately 0950 hours, with Nine Mile Point Unit 1 operating at approximately. 100 percent power, an automatic reactor scram was experienced. The scram occurred when Power Board 11 (PB-11) was de-energized due to inadvertent protective over-current relay actuations. The resulting loss of power to the Channel 11 side of the Reactor Trip Bus (RTB), concurrent with planned in-progress surveillance testing that introduced a half-scram signal an the opposite (Channel 12) side of the RTB, caused a full automatic reactor scram signal to be generated.  PB-11 was de-energized due to inadvertent protective over-current relay actuations caused by mechanical jarring of the relays mounted on the cubicle door. This occurred when a 4.16 kV circuit breaker was being rolled into position within its PB-11 cubicle. The underlying cause of the event is failure to adequately identify, assess, and mitigate potential risks of conducting work. The potential plant impacts that could be caused by inadvertent actuation or damage to surrounding equipment due to planned work were not identified or effectively managed.  Corrective actions have been developed such that, when completed, the work control process will yield consistent and effective risk assessments of work activities that will prevent the same type of inadvertent relay actuation and other similar events (i.e., events caused by failure to identify and effectively manage potential risks associated with surrounding equipment).",
+    "id": 76596015,
+    "label": [
+      {
+        "end": 18,
+        "text": "August 18, 2005",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 47,
+        "text": "0950 hours",
+        "start": 37,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 69,
+        "text": "Nine Mile Point",
+        "start": 54,
+        "labels": [
+          "Location"
+        ]
+      },
+      {
+        "end": 76,
+        "text": "Unit 1",
+        "start": 70,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 150,
+        "text": "an automatic reactor scram",
+        "start": 124,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 177,
+        "text": "The scram",
+        "start": 168,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 291,
+        "text": "Power Board 11 (PB-11) was de-energized due to inadvertent protective over-current relay actuations",
+        "start": 192,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 367,
+        "text": "Reactor Trip Bus",
+        "start": 351,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 372,
+        "text": "RTB",
+        "start": 369,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 512,
+        "text": "RTB",
+        "start": 509,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 574,
+        "text": "a full automatic reactor scram signal to be generated",
+        "start": 521,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 512,
+        "text": "The resulting loss of power to the Channel 11 side of the Reactor Trip Bus (RTB), concurrent with planned in-progress surveillance testing that introduced a half-scram signal an the opposite (Channel 12) side of the RTB",
+        "start": 293,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 206,
+        "text": "Power Board 11",
+        "start": 192,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 213,
+        "text": "PB-11",
+        "start": 208,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 582,
+        "text": "PB-11",
+        "start": 577,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 599,
+        "text": "PB-11 was de-energized",
+        "start": 577,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 659,
+        "text": "inadvertent protective over-current relay actuations",
+        "start": 607,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 730,
+        "text": "mechanical jarring of the relays mounted on the cubicle door",
+        "start": 670,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 648,
+        "text": "relay",
+        "start": 643,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 702,
+        "text": "relays",
+        "start": 696,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 824,
+        "text": "PB-11",
+        "start": 819,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 867,
+        "text": "the event",
+        "start": 858,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 958,
+        "text": "failure to adequately identify, assess, and mitigate potential risks of conducting work",
+        "start": 871,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 979,
+        "text": "plant",
+        "start": 974,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 1384,
+        "text": "the work control process will yield consistent and effective risk assessments of work activities that will prevent the same type of inadvertent relay actuation and other similar events",
+        "start": 1200,
+        "labels": [
+          "Solution"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26096242,
+    "created_at": "2023-11-10T15:14:04.225667Z",
+    "updated_at": "2023-11-12T11:03:47.553260Z",
+    "lead_time": 1080.417,
+    "agreement": 100.0
+  },
+  {
+    "text": "At 1056 on November 10, 2010, Nine Mile Point Unit 1 scrammed from full power operation due to closure of outboard Main Steam Isolation Valves (MSIVs) 01-03 and 01-04. Valves 01-03 and 01-04 closed following receipt of an invalid low-low reactor water level signal.   The scram was the result of a combination of two latent preexisting plant conditions and performance of a quarterly instrument channel surveillance test. The first preexisting condition was misaligned connector pins on Grayboot splice connectors for outboard MSIV Channel 11 solenoid operated valves. The cause of the misalignment was determined to be insufficient rigor in the behaviors and knowledge (training) used in identifying appropriate post maintenance testing (PMT) requirements. The second preexisting condition was a misaligned contact spring in isolation logic Channel 12 relay 12K74 (General Electric (GE) Model CR305). The cause of this failure was excess material (plastic) left during fabrication of the relay's movable contact holder.   Immediate actions were to repair the Channel 11 Grayboot splice connectors and replace Channel 12 relay 12K74. Training will be provided to planning personnel to ensure an adequate understanding of complex\/redundant circuits for the proper determination of PMT requirements. Procedure\/manuals governing Grayboot connector maintenance activities will be revised to include additional post assembly inspections and testing.",
+    "id": 76596016,
+    "label": [
+      {
+        "end": 7,
+        "text": "1056",
+        "start": 3,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 28,
+        "text": "November 10, 2010",
+        "start": 11,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 45,
+        "text": "Nine Mile Point",
+        "start": 30,
+        "labels": [
+          "Location"
+        ]
+      },
+      {
+        "end": 52,
+        "text": "Unit 1",
+        "start": 46,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 166,
+        "text": "closure of outboard Main Steam Isolation Valves (MSIVs) 01-03 and 01-04",
+        "start": 95,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 142,
+        "text": "Main Steam Isolation Valves",
+        "start": 115,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 149,
+        "text": "MSIVs",
+        "start": 144,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 174,
+        "text": "Valves",
+        "start": 168,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 87,
+        "text": "Unit 1 scrammed from full power operation",
+        "start": 46,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 277,
+        "text": "The scram",
+        "start": 268,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 352,
+        "text": "a combination of two latent preexisting plant conditions",
+        "start": 296,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 420,
+        "text": "performance of a quarterly instrument channel surveillance test",
+        "start": 357,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 483,
+        "text": "connector pins",
+        "start": 469,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 513,
+        "text": "splice connectors",
+        "start": 496,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 531,
+        "text": "MSIV",
+        "start": 527,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 567,
+        "text": "valves",
+        "start": 561,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 756,
+        "text": "insufficient rigor in the behaviors and knowledge (training) used in identifying appropriate post maintenance testing (PMT) requirements",
+        "start": 620,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 900,
+        "text": "a misaligned contact spring in isolation logic Channel 12 relay 12K74 (General Electric (GE) Model CR305)",
+        "start": 795,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 1019,
+        "text": "excess material (plastic) left during fabrication of the relay's movable contact holder",
+        "start": 932,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 994,
+        "text": "relay",
+        "start": 989,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1132,
+        "text": "repair the Channel 11 Grayboot splice connectors and replace Channel 12 relay 12K74",
+        "start": 1049,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 567,
+        "text": "misaligned connector pins on Grayboot splice connectors for outboard MSIV Channel 11 solenoid operated valves",
+        "start": 458,
+        "labels": [
+          "Cause"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26096369,
+    "created_at": "2023-11-10T15:20:55.050387Z",
+    "updated_at": "2023-11-12T11:03:51.733531Z",
+    "lead_time": 409.821,
+    "agreement": 100.0
+  },
+  {
+    "text": "On October 29, 2012 at 21:00:57 hours, Nine Mile Point Unit 1 (NMP1) experienced an unplanned, automatic, reactor scram due to a Turbine Trip from 100 percent power caused by activation of a generator lockout relay. The generator trip was an unexpected consequence and was initiated by a high fault current condition in the Scriba switchyard detected by both NMP1 instantaneous ground directional overcurrent relays. A polarity wiring error within the generator step up transformer neutral ground current transformers (CTs) caused the relay protection circuits to actuate on the fault in the Scriba switchyard. This was not expected because the relay protection circuits were designed to detect a fault condition between the main generator and the station output breakers. The error was caused by less than adequate oversight by CENG personnel of transformer XF-TB01 testing with respect to unclear specificity of requirements for vendor performed testing and inadequate methods of verification for ensuring vendor compliance with engineering specifications. This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an actuation of the reactor protection system and an actuation of the high pressure coolant injection system while the reactor was critical. Corrective actions include correcting the wiring of the CT circuits, verifying all the requirements in the engineering specification have been met, revising the associated electrical drawings, and revising engineering procedures to require the listing of critical attributes for equipment\/components and to define testing criteria\/verification methods to be performed when factory acceptance testing or modification functional testing cannot be performed to verify the functionality of equipment\/components.",
+    "id": 76596017,
+    "label": [
+      {
+        "end": 19,
+        "text": "October 29, 2012",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 37,
+        "text": "21:00:57 hours",
+        "start": 23,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 54,
+        "text": "Nine Mile Point",
+        "start": 39,
+        "labels": [
+          "Location"
+        ]
+      },
+      {
+        "end": 61,
+        "text": "Unit 1",
+        "start": 55,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 119,
+        "text": "an unplanned, automatic, reactor scram",
+        "start": 81,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 141,
+        "text": "a Turbine Trip",
+        "start": 127,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 214,
+        "text": "activation of a generator lockout relay",
+        "start": 175,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 214,
+        "text": "generator lockout relay",
+        "start": 191,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 234,
+        "text": "The generator trip",
+        "start": 216,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 415,
+        "text": "a high fault current condition in the Scriba switchyard detected by both NMP1 instantaneous ground directional overcurrent relays",
+        "start": 286,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 415,
+        "text": "instantaneous ground directional overcurrent relays",
+        "start": 364,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 461,
+        "text": "generator",
+        "start": 452,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 517,
+        "text": "current transformers",
+        "start": 497,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 522,
+        "text": "CTs",
+        "start": 519,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 609,
+        "text": "the relay protection circuits to actuate on the fault in the Scriba switchyard",
+        "start": 531,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 523,
+        "text": "A polarity wiring error within the generator step up transformer neutral ground current transformers (CTs)",
+        "start": 417,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 670,
+        "text": "relay protection circuits",
+        "start": 645,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 739,
+        "text": "main generator",
+        "start": 725,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 771,
+        "text": "station output breakers",
+        "start": 748,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 955,
+        "text": "less than adequate oversight by CENG personnel of transformer XF-TB01 testing with respect to unclear specificity of requirements for vendor performed testing",
+        "start": 797,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 1057,
+        "text": "inadequate methods of verification for ensuring vendor compliance with engineering specifications",
+        "start": 960,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 1177,
+        "text": "reactor protection system",
+        "start": 1152,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 1240,
+        "text": "high pressure coolant injection system",
+        "start": 1202,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 1258,
+        "text": "reactor",
+        "start": 1251,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 1341,
+        "text": "correcting the wiring of the CT circuits,",
+        "start": 1300,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 1419,
+        "text": "verifying all the requirements in the engineering specification have been met",
+        "start": 1342,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 1464,
+        "text": "revising the associated electrical drawings",
+        "start": 1421,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 1501,
+        "text": "revising engineering procedures",
+        "start": 1470,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 782,
+        "text": "The error",
+        "start": 773,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 1340,
+        "text": "CT circuits",
+        "start": 1329,
+        "labels": [
+          "Component"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26096968,
+    "created_at": "2023-11-10T15:34:30.985162Z",
+    "updated_at": "2023-11-12T11:03:54.305854Z",
+    "lead_time": 814.908,
+    "agreement": 100.0
+  },
+  {
+    "text": "On August 2, 1990, during normal power operation in the Run mode, the 2-203-3A Main Steam Target Rock Safety-Relief Valve (TRSRV) acoustic monitor alarmed, indicating that the valve had spuriously opened and was relieving reactor pressure to the suppression chamber. The reactor was subsequently manually scrammed from 87% power at 0116 hours. All Containment Cooling Service Water and Low Pressure Coolant Injection pumps were manually started for maximum suppression pool cooling. The maximum average cooldown rate when averaged over a one hour period reached 129.3 degrees F\/hr, and maximum bulk suppression chamber water temperature was 122 degrees F. The opening of the TRSRV was apparently caused by steam cuts on the first stage pilot valve disc. Analyses were performed to verify that the cooldown rate and the bulk suppression chamber temperature attained during this event were within design limits. A satisfactorily leak tested, rebuilt TRSRV was installed. The Technical Staff will monitor the TRSRV tail pipe temperatures to verify proper pilot valve operation. The Station will routinely replace the entire TRSRV at each refuel outage. A previous TRSRV failure event was reported by LER 50-237\/76-34.",
+    "id": 76596018,
+    "label": [
+      {
+        "end": 17,
+        "text": "August 2, 1990",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 121,
+        "text": "Main Steam Target Rock Safety-Relief Valve",
+        "start": 79,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 128,
+        "text": "TRSRV",
+        "start": 123,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 181,
+        "text": "valve",
+        "start": 176,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 203,
+        "text": "the valve had spuriously opened",
+        "start": 172,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 278,
+        "text": "reactor",
+        "start": 271,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 313,
+        "text": "The reactor was subsequently manually scrammed",
+        "start": 267,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 342,
+        "text": "0116 hours",
+        "start": 332,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 422,
+        "text": "Low Pressure Coolant Injection pumps",
+        "start": 386,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 381,
+        "text": "Containment Cooling Service Water",
+        "start": 348,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 680,
+        "text": "TRSRV",
+        "start": 675,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 680,
+        "text": "The opening of the TRSRV",
+        "start": 656,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 154,
+        "text": "the 2-203-3A Main Steam Target Rock Safety-Relief Valve (TRSRV) acoustic monitor alarmed",
+        "start": 66,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 752,
+        "text": "steam cuts on the first stage pilot valve disc",
+        "start": 706,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 752,
+        "text": "first stage pilot valve disc",
+        "start": 724,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 988,
+        "text": "Technical Staff",
+        "start": 973,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 1034,
+        "text": "monitor the TRSRV tail pipe temperatures",
+        "start": 994,
+        "labels": [
+          "Activity"
+        ]
+      },
+      {
+        "end": 1011,
+        "text": "TRSRV",
+        "start": 1006,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1063,
+        "text": "pilot valve",
+        "start": 1052,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1126,
+        "text": "TRSRV",
+        "start": 1121,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1166,
+        "text": "TRSRV",
+        "start": 1161,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 176,
+        "text": "the ",
+        "start": 172,
+        "labels": [
+          "Event"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26097116,
+    "created_at": "2023-11-10T15:43:44.658866Z",
+    "updated_at": "2023-11-12T11:03:58.436610Z",
+    "lead_time": 552.712,
+    "agreement": 100.0
+  },
+  {
+    "text": "On December 21, 1990 at 1237 EST, with the reactor at approximately 16% full power, a reactor trip occurred due to Lo Lo level (\"A\" Steam Generator.) The Control Room operators immediately performed the appropriate actions of E-O (Reactor Trip or Safety Injection) and ES-0.1 (Reactor Trip Response). Both main steam isolation valves were subsequently closed to limit an RCS cooldown and the plant was stabilized in hot shutdown. The intermediate cause of the event was the \"A\" main feedwater pump tripping due to feed pump seal water low differential pressure caused by a condensate low header pressure transient. The underlying cause of the event was a deficiency in the operating philosophy for the proper number of condensate pumps running during low power conditions. Corrective action will be to change the appropriate procedures involved, to be consistent with the new operating philosophy.",
+    "id": 76596019,
+    "label": [
+      {
+        "end": 20,
+        "text": "December 21, 1990",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 32,
+        "text": "1237 EST",
+        "start": 24,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 50,
+        "text": "reactor",
+        "start": 43,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 98,
+        "text": "a reactor trip",
+        "start": 84,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 149,
+        "text": "Lo Lo level (\"A\" Steam Generator.)",
+        "start": 115,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 176,
+        "text": "Control Room operators",
+        "start": 154,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 299,
+        "text": "appropriate actions of E-O (Reactor Trip or Safety Injection) and ES-0.1 (Reactor Trip Response)",
+        "start": 203,
+        "labels": [
+          "Activity"
+        ]
+      },
+      {
+        "end": 333,
+        "text": "main steam isolation valves",
+        "start": 306,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 397,
+        "text": "plant",
+        "start": 392,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 465,
+        "text": "the event",
+        "start": 456,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 506,
+        "text": "the \"A\" main feedwater pump tripping",
+        "start": 470,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 560,
+        "text": "feed pump seal water low differential pressure",
+        "start": 514,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 613,
+        "text": "a condensate low header pressure transient",
+        "start": 571,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 648,
+        "text": "the event",
+        "start": 639,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 771,
+        "text": "a deficiency in the operating philosophy for the proper number of condensate pumps running during low power conditions",
+        "start": 653,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 896,
+        "text": "to change the appropriate procedures involved, to be consistent with the new operating philosophy",
+        "start": 799,
+        "labels": [
+          "Solution"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26098791,
+    "created_at": "2023-11-10T17:13:11.254093Z",
+    "updated_at": "2023-11-12T11:04:00.612482Z",
+    "lead_time": 427.84299999999996,
+    "agreement": 100.0
+  },
+  {
+    "text": "On January 26, 1997, with reactor power at approximately 14 percent and a unit shutdown in progress, a manual turbine trip was initiated due to steam generator level variations. Feedwater regulating valves for 21, 22, 23, and 24 steam generators had been placed in manual prior to the trip due to inconsistent response experienced during the shutdown. Feedwater flow to the steam generators was being controlled primarily with 21 Main Boiler Feed Pump speed. 21 Main Boiler Feed Pump recirculation valve opened as designed on low flow, causing a reduction in feedwater to all steam generators. A manual turbine trip was initiated in accordance with management direction, which caused a further reduction in steam generator levels due to \"shrink.\" The combined effect of reduced feedwater flow and \"shrink\" resulted in a low steam generator level reactor trip. All control rods fully inserted and the generator tripped 30 seconds following the turbine trip as designed. Following the reactor trip all safety-related equipment performed as required with the exception of the 21, 22, and 24 Main and 23 Low-flow Feedwater Regulating Valves which did not fully close, as required. A multi-discipline team was promptly assembled to investigate the cause of the Main and Low-flow Feedwater Regulator valve non-closures. The reactor was safely brought to hot shutdown conditions.",
+    "id": 76596020,
+    "label": [
+      {
+        "end": 19,
+        "text": "January 26, 1997",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 33,
+        "text": "reactor",
+        "start": 26,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 78,
+        "text": "unit",
+        "start": 74,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 122,
+        "text": "a manual turbine trip",
+        "start": 101,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 176,
+        "text": "steam generator level variations",
+        "start": 144,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 245,
+        "text": "steam generators",
+        "start": 229,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 289,
+        "text": "the trip",
+        "start": 281,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 390,
+        "text": "steam generators",
+        "start": 374,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 451,
+        "text": "Main Boiler Feed Pump",
+        "start": 430,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 483,
+        "text": "Main Boiler Feed Pump",
+        "start": 462,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 503,
+        "text": "recirculation valve",
+        "start": 484,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 592,
+        "text": "steam generators",
+        "start": 576,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 592,
+        "text": "a reduction in feedwater to all steam generators",
+        "start": 544,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 534,
+        "text": "21 Main Boiler Feed Pump recirculation valve opened as designed on low flow",
+        "start": 459,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 615,
+        "text": "A manual turbine trip",
+        "start": 594,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 746,
+        "text": "a further reduction in steam generator levels due to \"shrink.\"",
+        "start": 684,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 722,
+        "text": "steam generator",
+        "start": 707,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 858,
+        "text": "a low steam generator level reactor trip",
+        "start": 818,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 805,
+        "text": "The combined effect of reduced feedwater flow and \"shrink\"",
+        "start": 747,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 876,
+        "text": "control rods",
+        "start": 864,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 909,
+        "text": "generator",
+        "start": 900,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 950,
+        "text": "turbine",
+        "start": 943,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 917,
+        "text": "the generator tripped",
+        "start": 896,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 955,
+        "text": "the turbine trip",
+        "start": 939,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 990,
+        "text": "reactor",
+        "start": 983,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 995,
+        "text": "the reactor trip",
+        "start": 979,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 1299,
+        "text": "Feedwater Regulator valve",
+        "start": 1274,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1136,
+        "text": "Feedwater Regulating Valves",
+        "start": 1109,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 205,
+        "text": "Feedwater regulating valves",
+        "start": 178,
+        "labels": [
+          "Component"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26098840,
+    "created_at": "2023-11-10T17:23:02.339781Z",
+    "updated_at": "2023-11-12T11:04:03.035564Z",
+    "lead_time": 558.136,
+    "agreement": 100.0
+  },
+  {
+    "text": "On April 19, 2018, at 2100 hours, during initial plant startup following the Spring 2018 refueling outage (2R23), Indian Point Unit 2 commenced performance of the main turbine generator startup procedure to conduct turbine overspeed testing. At 2107 hours, the control room received main feedwater supervisory and panel alarms, and the main turbine control valves were observed to have opened rapidly. The unexpected rapid opening of the turbine control valves caused steam flow to increase, which in turn, caused all four steam generator water levels to swell. The high steam generator levels initiated an automatic main feedwater isolation and main turbine trip, with both Main Boiler Feedwater Pumps (MBFPs) tripping on closure of their discharge valves as part of the main feedwater isolation actuation. At 2108 hours, with reactor power at 8 percent and no MBFPs running, a manual reactor trip was inserted by the control board operators in accordance with the abnormal operating procedure for loss of main feedwater. All control rods fully inserted and all required safety systems functioned properly. The plant was stabilized in hot standby with decay heat being removed by the main condenser. The Auxiliary Feedwater System (AFWS) automatically started as expected on the tripping of the MBFPs to maintain steam generator inventory. The direct cause of the event was main turbine control oil stop valve LO-Z being out of its required position (closed instead of open). The root cause was main turbine generator startup procedure (2-SOP-26.4) provided a weak barrier to maintain the proper configuration of the main turbine control oil system. Corrective actions primarily involved the resolution of configuration control and management vulnerabilities. This event had no effect on the public health and safety. The event was reported to the Nuclear Regulatory Commission on April 19, 2018 under 10 CFR 50.72(b)(2)(iv)(B) and 50.72(b)(3)(iv)(A).",
+    "id": 76596021,
+    "label": [
+      {
+        "end": 17,
+        "text": "April 19, 2018",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 32,
+        "text": "2100 hours",
+        "start": 22,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 126,
+        "text": "Indian Point",
+        "start": 114,
+        "labels": [
+          "Location"
+        ]
+      },
+      {
+        "end": 133,
+        "text": "Unit 2",
+        "start": 127,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 255,
+        "text": "2107 hours",
+        "start": 245,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 460,
+        "text": "The unexpected rapid opening of the turbine control valves",
+        "start": 402,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 185,
+        "text": "main turbine generator",
+        "start": 163,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 222,
+        "text": "turbine",
+        "start": 215,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 363,
+        "text": "main turbine control valves",
+        "start": 336,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 460,
+        "text": "turbine control valves",
+        "start": 438,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 490,
+        "text": "steam flow to increase",
+        "start": 468,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 560,
+        "text": "all four steam generator water levels to swell",
+        "start": 514,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 538,
+        "text": "steam generator",
+        "start": 523,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 586,
+        "text": "steam generator",
+        "start": 571,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 641,
+        "text": "an automatic main feedwater isolation",
+        "start": 604,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 663,
+        "text": "main turbine trip",
+        "start": 646,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 658,
+        "text": "main turbine",
+        "start": 646,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 593,
+        "text": "The high steam generator levels",
+        "start": 562,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 702,
+        "text": "Main Boiler Feedwater Pumps",
+        "start": 675,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 709,
+        "text": "MBFPs",
+        "start": 704,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 756,
+        "text": "discharge valves",
+        "start": 740,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 821,
+        "text": "2108 hours",
+        "start": 811,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 835,
+        "text": "reactor",
+        "start": 828,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 867,
+        "text": "MBFPs",
+        "start": 862,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 942,
+        "text": "control board operators",
+        "start": 919,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 1117,
+        "text": "plant",
+        "start": 1112,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 1231,
+        "text": "Auxiliary Feedwater System",
+        "start": 1205,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 1237,
+        "text": "AFWS",
+        "start": 1233,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 1301,
+        "text": "MBFPs",
+        "start": 1296,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1329,
+        "text": "steam generator",
+        "start": 1314,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1370,
+        "text": "the event",
+        "start": 1361,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 1475,
+        "text": "main turbine control oil stop valve LO-Z being out of its required position (closed instead of open)",
+        "start": 1375,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 1387,
+        "text": "main turbine",
+        "start": 1375,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1410,
+        "text": "valve",
+        "start": 1405,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1649,
+        "text": "main turbine generator startup procedure (2-SOP-26.4) provided a weak barrier to maintain the proper configuration of the main turbine control oil system",
+        "start": 1496,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 1759,
+        "text": "the resolution of configuration control and management vulnerabilities",
+        "start": 1689,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 1828,
+        "text": "The event",
+        "start": 1819,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 1771,
+        "text": "This event",
+        "start": 1761,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 1896,
+        "text": "April 19, 2018",
+        "start": 1882,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 911,
+        "text": "a manual reactor trip was inserted",
+        "start": 877,
+        "labels": [
+          "Activity"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26099009,
+    "created_at": "2023-11-10T17:34:25.682033Z",
+    "updated_at": "2023-11-12T11:04:04.580750Z",
+    "lead_time": 682.416,
+    "agreement": 100.0
+  },
+  {
+    "text": "On June 27, 2005, at 0316, Turkey Point Unit 4 reactor was automatically tripped from 100% power following a turbine trip due to a Main Generator lock out generated from an electrical fault of the Unit 4 Main Transformer. The transformer was recently installed during the refueling outage in Spring 2005. The fault ruptured the transformer tank releasing oil and caused a fire that damaged the transformer and adjacent equipment. At 0327, an Unusual Event was declared based on the fire in the plant protected area lasting longer than 10 minutes. The site fire brigade responded and extinguished the fire. Offsite fire fighting assistance was requested, but was not used to extinguish the fire. The fire was extinguished and the Unusual Event was terminated at 0500. All plant systems functioned as designed during and after the event. The operating crew controlled and stabilized the plant, and therefore the health and safety of the public was not adversely impacted by this event. The root cause for the Turkey Point Unit 4 Main Transformer failure was a failed manufacturing process employed by the vendor's supplier of the clamping ring. Corrective actions included replacement of the Main Transformer and repair\/replacement of components damaged by the resultant fire.",
+    "id": 76596022,
+    "label": [
+      {
+        "end": 16,
+        "text": "June 27, 2005",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 25,
+        "text": "0316",
+        "start": 21,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 39,
+        "text": "Turkey Point",
+        "start": 27,
+        "labels": [
+          "Location"
+        ]
+      },
+      {
+        "end": 46,
+        "text": "Unit 4",
+        "start": 40,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 54,
+        "text": "reactor",
+        "start": 47,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 121,
+        "text": "a turbine trip",
+        "start": 107,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 220,
+        "text": "a Main Generator lock out generated from an electrical fault of the Unit 4 Main Transformer",
+        "start": 129,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 116,
+        "text": "turbine",
+        "start": 109,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 145,
+        "text": "Main Generator",
+        "start": 131,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 203,
+        "text": "Unit 4",
+        "start": 197,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 220,
+        "text": "Main Transformer",
+        "start": 204,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 237,
+        "text": "transformer",
+        "start": 226,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 339,
+        "text": "transformer",
+        "start": 328,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 405,
+        "text": "transformer",
+        "start": 394,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 437,
+        "text": "0327",
+        "start": 433,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 455,
+        "text": "Unusual Event",
+        "start": 442,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 499,
+        "text": "plant",
+        "start": 494,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 742,
+        "text": "Unusual Event",
+        "start": 729,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 765,
+        "text": "0500",
+        "start": 761,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 776,
+        "text": "plant",
+        "start": 771,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 834,
+        "text": "the event",
+        "start": 825,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 854,
+        "text": "operating crew",
+        "start": 840,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 890,
+        "text": "controlled and stabilized the plant",
+        "start": 855,
+        "labels": [
+          "Activity"
+        ]
+      },
+      {
+        "end": 890,
+        "text": "plant",
+        "start": 885,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 982,
+        "text": "this event",
+        "start": 972,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 1019,
+        "text": "Turkey Point",
+        "start": 1007,
+        "labels": [
+          "Location"
+        ]
+      },
+      {
+        "end": 1026,
+        "text": "Unit 4",
+        "start": 1020,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 1043,
+        "text": "Main Transformer",
+        "start": 1027,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1141,
+        "text": "a failed manufacturing process employed by the vendor's supplier of the clamping ring",
+        "start": 1056,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 1051,
+        "text": "Turkey Point Unit 4 Main Transformer failure",
+        "start": 1007,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 1273,
+        "text": "replacement of the Main Transformer and repair\/replacement of components damaged by the resultant fire",
+        "start": 1171,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 1206,
+        "text": "Main Transformer",
+        "start": 1190,
+        "labels": [
+          "Component"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26099327,
+    "created_at": "2023-11-10T17:53:28.460316Z",
+    "updated_at": "2023-11-12T11:04:06.554105Z",
+    "lead_time": 1141.851,
+    "agreement": 100.0
+  },
+  {
+    "text": "On June 13, 2011, Quad Cities Unit 1 was performing startup from refueling outage Q1R21. During power ascension while at 61% power (560 MWe) a steam leak was identified on the main steam line downstream of turbine control valve #1 (1-5699-CV1). Reactor power was reduced and the reactor was manually scrammed. The steam leak occurred at a recently repaired sensing line that had previously leaked. A forced outage was initiated to investigate and performs repairs.  The reactor and turbine responded as designed. Operators performed required actions safely and in accordance with procedures and training. There were no complications during the reactor scram and turbine trip, and all systems functioned as required.  The root cause for the manual scram due to a steam leak from a pressure sensing line repair was that the capped pipe stub repair failed due to a fatigue induced flaw that was not known to exist at the time of the repair. Corrective actions included replacing the Unit 1 sensing line sock-o-lets with gamma plugs. Future corrective actions include replacement of the equivalent Unit 2 sensing line sock-o-lets with gamma plugs.   The safety significance of this event was minimal. This event is reportable per 10 CFR 50.73(a)(2)(iv)(A), as any event or condition that resulted in manual or automatic actuation of the reactor protection system (RPS), including reactor scram.",
+    "id": 76596023,
+    "label": [
+      {
+        "end": 16,
+        "text": "June 13, 2011",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 29,
+        "text": "Quad Cities",
+        "start": 18,
+        "labels": [
+          "Location"
+        ]
+      },
+      {
+        "end": 36,
+        "text": "Unit 1",
+        "start": 30,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 227,
+        "text": "turbine control valve",
+        "start": 206,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 252,
+        "text": "Reactor",
+        "start": 245,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 286,
+        "text": "reactor",
+        "start": 279,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 308,
+        "text": "the reactor was manually scrammed",
+        "start": 275,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 369,
+        "text": "sensing line",
+        "start": 357,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 477,
+        "text": "reactor",
+        "start": 470,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 489,
+        "text": "turbine",
+        "start": 482,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 522,
+        "text": "Operators",
+        "start": 513,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 463,
+        "text": "A forced outage was initiated to investigate and performs repairs",
+        "start": 398,
+        "labels": [
+          "Activity"
+        ]
+      },
+      {
+        "end": 657,
+        "text": "the reactor scram",
+        "start": 640,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 674,
+        "text": "turbine trip",
+        "start": 662,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 752,
+        "text": "the manual scram",
+        "start": 736,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 808,
+        "text": "a steam leak from a pressure sensing line repair",
+        "start": 760,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 936,
+        "text": "the capped pipe stub repair failed due to a fatigue induced flaw that was not known to exist at the time of the repair",
+        "start": 818,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 1028,
+        "text": "replacing the Unit 1 sensing line sock-o-lets with gamma plugs",
+        "start": 966,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 986,
+        "text": "Unit 1",
+        "start": 980,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 999,
+        "text": "sensing line",
+        "start": 987,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 1142,
+        "text": "replacement of the equivalent Unit 2 sensing line sock-o-lets with gamma plugs",
+        "start": 1064,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 1183,
+        "text": "this event",
+        "start": 1173,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 1207,
+        "text": "This event",
+        "start": 1197,
+        "labels": [
+          "Event"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26099460,
+    "created_at": "2023-11-10T17:58:41.288671Z",
+    "updated_at": "2023-11-12T11:04:08.159184Z",
+    "lead_time": 311.9,
+    "agreement": 100.0
+  },
+  {
+    "text": "On August 31, 2004, at 0715 hours, the plant was operating at approximately 100% power. A rapid plant down power was commenced following report of a fire in the vicinity of the P-2B condensate pump lower motor bearing. At 0718 hours, the reactor was manually tripped from approximately 95% power, in conjunction with securing the P-2B condensate pump, and the imminent loss of main feedwater. Following the reactor trip, the auxiliary feedwater system started automatically to maintain steam generator water level. The plant was stabilized in Mode 3. Overheating, and ultimately fire, at the condensate pump lower motor bearing were caused by pump and motor misalignment following maintenance in July 2004. The pump and motor misalignment occurred as a result of inadequate maintenance instructions. Proper alignment criteria were established and incorporated into the work instruction when the repaired motor was reinstalled in September 2004.  The safety significance of this event was minimal. All safety systems functioned as expected during the plant trip.  This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in a manual actuation of the reactor protection system and automatic actuation of the auxiliary feedwater system.",
+    "id": 76596024,
+    "label": [
+      {
+        "end": 18,
+        "text": "August 31, 2004",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 33,
+        "text": "0715 hours",
+        "start": 23,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 44,
+        "text": "plant",
+        "start": 39,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 101,
+        "text": "plant",
+        "start": 96,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 197,
+        "text": "condensate pump",
+        "start": 182,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 232,
+        "text": "0718 hours",
+        "start": 222,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 245,
+        "text": "reactor",
+        "start": 238,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 266,
+        "text": "the reactor was manually tripped",
+        "start": 234,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 350,
+        "text": "condensate pump",
+        "start": 335,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 419,
+        "text": "the reactor trip",
+        "start": 403,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 451,
+        "text": "auxiliary feedwater system",
+        "start": 425,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 501,
+        "text": "steam generator",
+        "start": 486,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 524,
+        "text": "plant",
+        "start": 519,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 217,
+        "text": "lower motor bearing",
+        "start": 198,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 607,
+        "text": "condensate pump",
+        "start": 592,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 627,
+        "text": "lower motor bearing",
+        "start": 608,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 627,
+        "text": "Overheating, and ultimately fire, at the condensate pump lower motor bearing",
+        "start": 551,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 705,
+        "text": "pump and motor misalignment following maintenance in July 2004",
+        "start": 643,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 705,
+        "text": "July 2004",
+        "start": 696,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 738,
+        "text": "The pump and motor misalignment",
+        "start": 707,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 798,
+        "text": "inadequate maintenance instructions",
+        "start": 763,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 885,
+        "text": "Proper alignment criteria were established and incorporated into the work instruction",
+        "start": 800,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 983,
+        "text": "this event",
+        "start": 973,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 1055,
+        "text": "plant",
+        "start": 1050,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 1060,
+        "text": "the plant trip",
+        "start": 1046,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 1073,
+        "text": "This event",
+        "start": 1063,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 1195,
+        "text": "reactor",
+        "start": 1188,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 1271,
+        "text": "auxiliary feedwater system",
+        "start": 1245,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 943,
+        "text": "September 2004",
+        "start": 929,
+        "labels": [
+          "Date"
+        ]
+      }
+    ],
+    "annotator": 12782,
+    "annotation_id": 26099592,
+    "created_at": "2023-11-10T18:11:08.200357Z",
+    "updated_at": "2023-11-12T11:04:09.999791Z",
+    "lead_time": 746.03,
+    "agreement": 100.0
+  },
+  {
+    "text": "On September 11, 2008 at 2248 hours, the site experienced a lockout of the primary auxiliary transformer with the reserve transformer isolated for planned maintenance. This resulted in a Loss of Normal Off-site Power (LONOP) and an associated SCRAM. The cause of the event was the A and B phase conductors supplying power to the primary auxiliary transformer faulted to ground. Corrective actions taken or planned are: the faulted cable was repaired, repaired other degraded cable splices identified by the extent of condition, and improvements in the cable condition monitoring program.",
+    "id": 76596029,
+    "label": [
+      {
+        "end": 21,
+        "text": "September 11, 2008",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 35,
+        "text": "2248 hours",
+        "start": 25,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 272,
+        "text": "the event",
+        "start": 263,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 376,
+        "text": "the A and B phase conductors supplying power to the primary auxiliary transformer faulted to ground",
+        "start": 277,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 586,
+        "text": "the faulted cable was repaired, repaired other degraded cable splices identified by the extent of condition, and improvements in the cable condition monitoring program",
+        "start": 419,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 248,
+        "text": "a Loss of Normal Off-site Power (LONOP) and an associated SCRAM",
+        "start": 185,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 133,
+        "text": "the reserve transformer",
+        "start": 110,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 104,
+        "text": "the primary auxiliary transformer",
+        "start": 71,
+        "labels": [
+          "Component"
+        ]
+      }
+    ],
+    "annotator": 12819,
+    "annotation_id": 26116498,
+    "created_at": "2023-11-11T17:12:56.648746Z",
+    "updated_at": "2023-11-12T11:04:12.564740Z",
+    "lead_time": 219.121,
+    "agreement": 100.0
+  },
+  {
+    "text": "At 0056 on 3\/25\/2020, with Unit 1 at 17 percent power during a plant return from a scheduled refueling outage, the reactor was manually tripped due to a failure of the 11 Rod Control Motor Generator due to a malfunction of its associated Voltage Regulator. All systems responded normally post-trip. An actuation of the Auxiliary Feedwater system occurred following the manual reactor trip as expected due to low level in the steam generators. The unit was stabilized in Mode 3. The failed equipment was repaired. This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A).",
+    "id": 76596033,
+    "label": [
+      {
+        "end": 20,
+        "text": "3\/25\/2020",
+        "start": 11,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 7,
+        "text": "0056",
+        "start": 3,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 33,
+        "text": "Unit 1",
+        "start": 27,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 68,
+        "text": " plant",
+        "start": 62,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 122,
+        "text": "reactor",
+        "start": 115,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 268,
+        "text": "systems",
+        "start": 261,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 345,
+        "text": "the Auxiliary Feedwater system",
+        "start": 315,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 441,
+        "text": "the steam generators",
+        "start": 421,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 451,
+        "text": "unit",
+        "start": 447,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 523,
+        "text": "This event",
+        "start": 513,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 511,
+        "text": "The failed equipment was repaired",
+        "start": 478,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 143,
+        "text": "the reactor was manually tripped",
+        "start": 111,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 198,
+        "text": "a failure of the 11 Rod Control Motor Generator",
+        "start": 151,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 255,
+        "text": "a malfunction of its associated Voltage Regulator",
+        "start": 206,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 388,
+        "text": "the manual reactor trip",
+        "start": 365,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 123,
+        "text": "reactor ",
+        "start": 115,
+        "labels": [
+          "Event"
+        ]
+      }
+    ],
+    "annotator": 12819,
+    "annotation_id": 26116576,
+    "created_at": "2023-11-11T17:16:28.638661Z",
+    "updated_at": "2023-11-12T11:04:15.780372Z",
+    "lead_time": 207.425,
+    "agreement": 100.0
+  },
+  {
+    "text": "On June 29, 1990 with the reactor at 100 percent power, a unit trip was initiated as the result of actuation of the main generator lockout relays. All plant systems functioned properly following the trip. It was determined that the actuation of the generator lockout relays resulted from the mechanical failure of protective relay, MCT1, which provides expanded breaker protection for the 345KV electrical output breakers. This relay was replaced and tested successfully. The reactor was brought critical on June 30, 1990 at 1852 hours and full power operations reached on July 2, 1990 at 0515 hours.",
+    "id": 76596042,
+    "label": [
+      {
+        "end": 16,
+        "text": "June 29, 1990",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 33,
+        "text": "reactor",
+        "start": 26,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 67,
+        "text": "a unit trip",
+        "start": 56,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 145,
+        "text": "actuation of the main generator lockout relays",
+        "start": 99,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 164,
+        "text": "All plant systems",
+        "start": 147,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 203,
+        "text": "the trip",
+        "start": 195,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 273,
+        "text": "the actuation of the generator lockout relays",
+        "start": 228,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 336,
+        "text": "the mechanical failure of protective relay, MCT1",
+        "start": 288,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 470,
+        "text": "This relay was replaced and tested successfully",
+        "start": 423,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 483,
+        "text": "reactor",
+        "start": 476,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 521,
+        "text": "June 30, 1990",
+        "start": 508,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 535,
+        "text": "1852 hours",
+        "start": 525,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 599,
+        "text": "0515 hours",
+        "start": 589,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 585,
+        "text": "July 2, 1990",
+        "start": 573,
+        "labels": [
+          "Date"
+        ]
+      }
+    ],
+    "annotator": 12819,
+    "annotation_id": 26116607,
+    "created_at": "2023-11-11T17:18:48.205191Z",
+    "updated_at": "2023-11-12T11:04:18.050439Z",
+    "lead_time": 125.882,
+    "agreement": 100.0
+  },
+  {
+    "text": "On June 24, 1992, at 3:09 a.m., Calvert Cliffs Unit 2 was manually tripped due to a rapid loss of Main Condenser vacuum. The low vacuum condition was caused by the failure of the 21 Main Condenser Expansion Joint. Unit 2 was at 100 percent power at the time of the event. This event did not result in any significant safety consequences. The immediate cause of the event was air in-leakage through the torn expansion joint belt of 21 Main Condenser. Unit 2 was placed in COLD SHUTDOWN (MODE 5) on June 25, 1992. An improved design belt was installed in 21 Main Condenser Expansion Joint. A new inspection procedure for the expansion joints has been implemented. A preventive maintenance procedure to periodically replace the expansion joints will be implemented.",
+    "id": 76596063,
+    "label": [
+      {
+        "end": 16,
+        "text": "June 24, 1992",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 29,
+        "text": "3:09 a.m",
+        "start": 21,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 46,
+        "text": "Calvert Cliffs",
+        "start": 32,
+        "labels": [
+          "Location"
+        ]
+      },
+      {
+        "end": 53,
+        "text": "Unit 2",
+        "start": 47,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 74,
+        "text": "manually tripped",
+        "start": 58,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 119,
+        "text": "a rapid loss of Main Condenser vacuum",
+        "start": 82,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 119,
+        "text": "Main Condenser vacuum",
+        "start": 98,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 145,
+        "text": "The low vacuum condition",
+        "start": 121,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 212,
+        "text": "the failure of the 21 Main Condenser Expansion Joint",
+        "start": 160,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 212,
+        "text": "21 Main Condenser Expansion Joint",
+        "start": 179,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 220,
+        "text": "Unit 2",
+        "start": 214,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 270,
+        "text": "the event",
+        "start": 261,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 282,
+        "text": "This event",
+        "start": 272,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 370,
+        "text": "the event",
+        "start": 361,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 448,
+        "text": "air in-leakage through the torn expansion joint belt of 21 Main Condenser",
+        "start": 375,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 448,
+        "text": "21 Main Condenser",
+        "start": 431,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 456,
+        "text": "Unit 2",
+        "start": 450,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 510,
+        "text": "June 25, 1992",
+        "start": 497,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 586,
+        "text": "21 Main Condenser Expansion Joint",
+        "start": 553,
+        "labels": [
+          "Component"
+        ]
+      }
+    ],
+    "annotator": 12819,
+    "annotation_id": 26117089,
+    "created_at": "2023-11-11T17:54:33.994988Z",
+    "updated_at": "2023-11-12T11:04:22.799274Z",
+    "lead_time": 195.992,
+    "agreement": 100.0
+  },
+  {
+    "text": "On November 17, 2000, at 0842 Eastern standard time (EST), Unit 2 experienced an automatic reactor trip. The reactor trip was initiated by a turbine trip, which was caused by the actuation of the sudden pressure relays on the `C' phase main transformer. The main control room operators took appropriate actions to stabilize the reactor in hot standby (Mode 3). An inspection of the main transformer revealed that a fault had occurred in the transformer. The electrical fault in the transformer was caused by a failure of a 24-kV bushing. A spare main transformer was placed in service for the faulted transformer, and the unit was returned to service.",
+    "id": 76596078,
+    "label": [
+      {
+        "end": 20,
+        "text": "November 17, 2000",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 51,
+        "text": "0842 Eastern standard time",
+        "start": 25,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 65,
+        "text": "Unit 2",
+        "start": 59,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 103,
+        "text": "automatic reactor trip",
+        "start": 81,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 121,
+        "text": "The reactor trip",
+        "start": 105,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 153,
+        "text": "turbine trip",
+        "start": 141,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 252,
+        "text": "the actuation of the sudden pressure relays on the `C' phase main transformer",
+        "start": 175,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 252,
+        "text": "main transformer",
+        "start": 236,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 285,
+        "text": "The main control room operators",
+        "start": 254,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 350,
+        "text": "took appropriate actions to stabilize the reactor in hot standby",
+        "start": 286,
+        "labels": [
+          "Activity"
+        ]
+      },
+      {
+        "end": 335,
+        "text": "reactor",
+        "start": 328,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 398,
+        "text": "the main transformer",
+        "start": 378,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 536,
+        "text": " a failure of a 24-kV bushing",
+        "start": 507,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 612,
+        "text": "A spare main transformer was placed in service for the faulted transformer",
+        "start": 538,
+        "labels": [
+          "Solution"
+        ]
+      },
+      {
+        "end": 493,
+        "text": "The electrical fault in the transformer",
+        "start": 454,
+        "labels": [
+          "Event"
+        ]
+      }
+    ],
+    "annotator": 12819,
+    "annotation_id": 26116811,
+    "created_at": "2023-11-11T17:30:38.547611Z",
+    "updated_at": "2023-11-12T11:04:26.816578Z",
+    "lead_time": 661.95,
+    "agreement": 100.0
+  },
+  {
+    "text": "On February 16, 1991, with the unit operating at 100% power, the 'B' Steam Generator Feed Pump (SGFP) unexpectedly tripped at 1731 hours. The pump was reset and the speed of the 'A' SGFP was raised from 4430 to 5100 RPM. As the 'B' SGFP was accelerated, it caused low suction pressure for both pumps. The 'B' SGFP tripped again, was reset, tripped and reset again. The 'A' and 'B' pump suction pressures again alarmed low. The 'A' SGFP then tripped. Low level alarms occurred in both steam generators. At 1733 hours, the reactor was manually tripped because of decreasing SG levels. The cause of the initial 'B' SGFP trip is unknown.",
+    "id": 76596088,
+    "label": [
+      {
+        "end": 20,
+        "text": "February 16, 1991",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 35,
+        "text": "unit",
+        "start": 31,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 136,
+        "text": "1731 hours",
+        "start": 126,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 94,
+        "text": "Steam Generator Feed Pump",
+        "start": 69,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 100,
+        "text": "SGFP",
+        "start": 96,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 122,
+        "text": "the 'B' Steam Generator Feed Pump (SGFP) unexpectedly tripped",
+        "start": 61,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 515,
+        "text": "1733 hours",
+        "start": 505,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 528,
+        "text": "reactor",
+        "start": 521,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 549,
+        "text": "the reactor was manually tripped",
+        "start": 517,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 581,
+        "text": "decreasing SG levels",
+        "start": 561,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 621,
+        "text": "initial 'B' SGFP trip",
+        "start": 600,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 363,
+        "text": "The 'B' SGFP tripped again, was reset, tripped and reset again",
+        "start": 301,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 448,
+        "text": "The 'A' SGFP then tripped",
+        "start": 423,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 500,
+        "text": "steam generators",
+        "start": 484,
+        "labels": [
+          "Component"
+        ]
+      }
+    ],
+    "annotator": 12819,
+    "annotation_id": 26116850,
+    "created_at": "2023-11-11T17:34:30.777020Z",
+    "updated_at": "2023-11-12T11:04:29.667551Z",
+    "lead_time": 222.063,
+    "agreement": 100.0
+  },
+  {
+    "text": "A transformer failure and subsequent low voltage condition resulted in a loss of the main generator stator cooling water system. The loss of stator cooling water resulted in an automatic trip of both reactor recirculation pumps which required a valid manual actuation of the reactor protection system. The transformer failure was caused by partial current discharge (corona effect). The partial current discharge was caused by a manufacturing defect resulting in improper insulation of the High Voltage line rod where it passes through the polyester support board. The faulted transformer was replaced.",
+    "id": 76596106,
+    "label": [
+      {
+        "end": 127,
+        "text": "the main generator stator cooling water system",
+        "start": 81,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 58,
+        "text": "A transformer failure and subsequent low voltage condition",
+        "start": 0,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 127,
+        "text": "a loss of the main generator stator cooling water system",
+        "start": 71,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 161,
+        "text": "The loss of stator cooling water",
+        "start": 129,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 227,
+        "text": "an automatic trip of both reactor recirculation pumps",
+        "start": 174,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 207,
+        "text": "reactor",
+        "start": 200,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 300,
+        "text": "the reactor protection system",
+        "start": 271,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 282,
+        "text": "reactor",
+        "start": 275,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 325,
+        "text": "The transformer failure",
+        "start": 302,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 365,
+        "text": "partial current discharge",
+        "start": 340,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 412,
+        "text": "The partial current discharge",
+        "start": 383,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 449,
+        "text": "manufacturing defect",
+        "start": 429,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 511,
+        "text": "improper insulation of the High Voltage line rod",
+        "start": 463,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 601,
+        "text": "The faulted transformer was replaced",
+        "start": 565,
+        "labels": [
+          "Solution"
+        ]
+      }
+    ],
+    "annotator": 12819,
+    "annotation_id": 26116907,
+    "created_at": "2023-11-11T17:37:50.020654Z",
+    "updated_at": "2023-11-12T11:04:34.075871Z",
+    "lead_time": 174.21,
+    "agreement": 100.0
+  },
+  {
+    "text": "At 1617 on 4-20-91, the reactor tripped due to a turbine trip. The turbine trip was caused by a reduction of condenser vacuum. The valve which supplies instrument air to the air operated steam admission valve for the 2A steam jet air ejector (SJAE) was inadvertently closed by personnel working in the area. This caused the steam supply valve to close and resulted in the loss of condenser vacuum. The turbine building system operator immediately restored air to the steam admission valve upon finding the air supply isolated. Vacuum recovered shortly after the trip occurred and no further problems were identified. The unit returned to power operation at 0426 on 4-21-91.",
+    "id": 76596113,
+    "label": [
+      {
+        "end": 18,
+        "text": "4-20-91",
+        "start": 11,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 7,
+        "text": "1617",
+        "start": 3,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 39,
+        "text": "the reactor tripped",
+        "start": 20,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 31,
+        "text": "reactor",
+        "start": 24,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 61,
+        "text": "a turbine trip",
+        "start": 47,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 79,
+        "text": "The turbine trip",
+        "start": 63,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 125,
+        "text": "a reduction of condenser vacuum",
+        "start": 94,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 286,
+        "text": "personnel",
+        "start": 277,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 276,
+        "text": "The valve which supplies instrument air to the air operated steam admission valve for the 2A steam jet air ejector (SJAE) was inadvertently closed by",
+        "start": 127,
+        "labels": [
+          "Activity"
+        ]
+      },
+      {
+        "end": 241,
+        "text": "the 2A steam jet air ejector",
+        "start": 213,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 247,
+        "text": "SJAE",
+        "start": 243,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 396,
+        "text": "the loss of condenser vacuum",
+        "start": 368,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 351,
+        "text": "the steam supply valve to close",
+        "start": 320,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 434,
+        "text": "The turbine building system operator",
+        "start": 398,
+        "labels": [
+          "Participant"
+        ]
+      },
+      {
+        "end": 525,
+        "text": "immediately restored air to the steam admission valve upon finding the air supply isolated",
+        "start": 435,
+        "labels": [
+          "Activity"
+        ]
+      },
+      {
+        "end": 488,
+        "text": "the steam admission valve",
+        "start": 463,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 136,
+        "text": "valve",
+        "start": 131,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 566,
+        "text": "the trip",
+        "start": 558,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 625,
+        "text": "unit",
+        "start": 621,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 661,
+        "text": "0426",
+        "start": 657,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 672,
+        "text": "4-21-91",
+        "start": 665,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 653,
+        "text": "The unit returned to power operation",
+        "start": 617,
+        "labels": [
+          "Event"
+        ]
+      }
+    ],
+    "annotator": 12819,
+    "annotation_id": 26116993,
+    "created_at": "2023-11-11T17:50:21.380104Z",
+    "updated_at": "2023-11-12T11:04:37.135475Z",
+    "lead_time": 258.756,
+    "agreement": 100.0
+  },
+  {
+    "text": "On On June 27, 1994 at approximately 4:54 p.m. Comanche Peak Steam Electric Station (CPSES) Unit 2 experienced an automatic reactor trip from a turbine generator trip. The plant sequence of event recorder logged a generator differential lock-out relay actuation. All required systems functioned as designed.  The event was caused by a short in the lead of the B phase neutral current transformer on the generator. Corrective actions were to replace the lead in accordance with plant procedures.",
+    "id": 76596174,
+    "label": [
+      {
+        "end": 19,
+        "text": "June 27, 1994",
+        "start": 6,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 45,
+        "text": "4:54 p.m",
+        "start": 37,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 98,
+        "text": "Unit 2",
+        "start": 92,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 136,
+        "text": "an automatic reactor trip",
+        "start": 111,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 166,
+        "text": "a turbine generator trip",
+        "start": 142,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 177,
+        "text": "plant",
+        "start": 172,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 261,
+        "text": "a generator differential lock-out relay actuation",
+        "start": 212,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 283,
+        "text": "All required systems",
+        "start": 263,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 318,
+        "text": "The event",
+        "start": 309,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 412,
+        "text": "a short in the lead of the B phase neutral current transformer on the generator",
+        "start": 333,
+        "labels": [
+          "Cause"
+        ]
+      },
+      {
+        "end": 412,
+        "text": "the generator",
+        "start": 399,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 493,
+        "text": "replace the lead in accordance with plant procedures",
+        "start": 441,
+        "labels": [
+          "Solution"
+        ]
+      }
+    ],
+    "annotator": 12819,
+    "annotation_id": 26116921,
+    "created_at": "2023-11-11T17:42:13.000829Z",
+    "updated_at": "2023-11-12T11:04:45.294014Z",
+    "lead_time": 179.226,
+    "agreement": 100.0
+  },
+  {
+    "text": "On May 19, 2001 at 0306 Mountain Standard Time (MST), Unit 3 was in MODE 1 (Power Operation), at approximately 19 percent rated thermal power when the reactor automatically tripped on an Axial Shape Index (ASI) auxiliary trip signal from the Core Protection Calculator (CPC). Unit 3 was operating at 19 percent power to accommodate corrective maintenance to resolve a high vibration problem on the main turbine. The root cause of the trip was that the downpower game plan did not include CPC ASI predictions, Axial Offset Anomaly (AOA) effects on ASI, or previous downpower differences between predicted ASI and the core operating limit supervisory system (COLSS) ASI.  There has been one similar event reported within the last three years in LER 2-2000-007-00.re changes and training.",
+    "id": 76596204,
+    "label": [
+      {
+        "end": 15,
+        "text": "May 19, 2001",
+        "start": 3,
+        "labels": [
+          "Date"
+        ]
+      },
+      {
+        "end": 46,
+        "text": " 0306 Mountain Standard Time",
+        "start": 18,
+        "labels": [
+          "Time"
+        ]
+      },
+      {
+        "end": 60,
+        "text": "Unit 3",
+        "start": 54,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 180,
+        "text": "the reactor automatically tripped",
+        "start": 147,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 158,
+        "text": "reactor",
+        "start": 151,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 282,
+        "text": "Unit 3",
+        "start": 276,
+        "labels": [
+          "System"
+        ]
+      },
+      {
+        "end": 410,
+        "text": "the main turbine",
+        "start": 394,
+        "labels": [
+          "Component"
+        ]
+      },
+      {
+        "end": 438,
+        "text": "the trip",
+        "start": 430,
+        "labels": [
+          "Event"
+        ]
+      },
+      {
+        "end": 667,
+        "text": "the downpower game plan did not include CPC ASI predictions, Axial Offset Anomaly (AOA) effects on ASI, or previous downpower differences between predicted ASI and the core operating limit supervisory system (COLSS) ASI",
+        "start": 448,
+        "labels": [
+          "Cause"
+        ]
+      }
+    ],
+    "annotator": 12819,
+    "annotation_id": 26116938,
+    "created_at": "2023-11-11T17:45:26.572648Z",
+    "updated_at": "2023-11-12T11:04:51.404673Z",
+    "lead_time": 132.769,
+    "agreement": 100.0
+  }
+]
